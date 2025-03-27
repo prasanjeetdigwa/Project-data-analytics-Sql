@@ -334,4 +334,3 @@ FROM flights f
 JOIN aircrafts a
 ON f.aircraft_code=a.aircraft_code
 GROUP BY flight_no
- SQL Capstone Project 
